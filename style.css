@@ -1,0 +1,48 @@
+body
+{
+    margin-top:0;
+}
+.heading
+{
+    background-color:blue;
+    color:white;
+    text-align:center;
+    padding:30px;
+}
+.form-style
+{ 
+    padding-top:5px;
+    text-align:center;
+} 
+input
+{
+    width:20%;
+}
+button
+{
+    background-color:rgb(168, 222, 243);
+    padding:8px 8px;
+    border: 0;
+    border-radius: 3px;
+}
+.table-style
+{
+    text-align:center;
+    padding-top:5px;
+    margin:auto;
+}
+table
+{
+    width:100%;
+    
+}
+
+ th, td
+{
+
+    border: 0;
+    text-align:center;
+    padding:10px;
+    
+}
+tr:nth-child(even) {background-color:lightblue;}
